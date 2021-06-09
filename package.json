@@ -11,7 +11,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "~11.2.5",
+    "@angular/animations": "^11.2.14",
     "@angular/common": "~11.2.5",
     "@angular/compiler": "~11.2.5",
     "@angular/core": "~11.2.5",
@@ -19,7 +19,12 @@
     "@angular/platform-browser": "~11.2.5",
     "@angular/platform-browser-dynamic": "~11.2.5",
     "@angular/router": "~11.2.5",
+    "angular-mouse-textbox": "^1.0.5",
+    "angular-resize-element": "^1.2.0",
+    "ngx-toastr": "^14.0.0",
+    "queue-typescript": "^1.0.1",
     "rxjs": "~6.6.0",
+    "snakegame-angular": "snakegame-angular.tgz",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
   },
